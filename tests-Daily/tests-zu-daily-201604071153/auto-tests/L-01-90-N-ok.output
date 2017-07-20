@@ -1,0 +1,46 @@
+[DEBUG][TYPE_CHECKER]: <-- function_definition_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Iserted f in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Default return value is NULL
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted i in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- if_else_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for i in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- eq_node -->
+[DEBUG][TYPE_CHECKER]: <-- eq_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- add_node -->
+[DEBUG][TYPE_CHECKER]: <-- function_call_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for i in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- add_node -->
+[DEBUG][TYPE_CHECKER]: <-- add_node -->
+[DEBUG][TYPE_CHECKER]: <-- sub_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for i in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- sub_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- function_definition_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for zu in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Iserted zu in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- print_node -->
+[DEBUG][TYPE_CHECKER]: <-- function_call_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->

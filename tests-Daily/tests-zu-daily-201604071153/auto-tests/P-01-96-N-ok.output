@@ -1,0 +1,40 @@
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- function_definition_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for zu in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Iserted zu in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- reserve_memory_node -->
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- index_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+INDEX_NODE value: double
+[DEBUG][TYPE_CHECKER]: <-- double_node -->
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- index_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+INDEX_NODE value: double
+[DEBUG][TYPE_CHECKER]: <-- double_node -->
+[DEBUG][TYPE_CHECKER]: <-- print_node -->
+[DEBUG][TYPE_CHECKER]: <-- index_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+INDEX_NODE value: double
+[DEBUG][TYPE_CHECKER]: <-- print_node -->
+[DEBUG][TYPE_CHECKER]: <-- index_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for f in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+INDEX_NODE value: double

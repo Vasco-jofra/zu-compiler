@@ -1,0 +1,29 @@
+[DEBUG][TYPE_CHECKER]: <-- function_definition_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for zu in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Iserted zu in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted r in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- double_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for r in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted p in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for p in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- evaluation_node -->
+[DEBUG][TYPE_CHECKER]: <-- assignment_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for p in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- dereference_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for r in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- print_node -->
+[DEBUG][TYPE_CHECKER]: <-- index_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for p in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+INDEX_NODE value: double

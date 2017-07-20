@@ -1,0 +1,17 @@
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted x in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- variable_declaration_node -->
+[DEBUG][TYPE_CHECKER]:   Iserted y in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- function_definition_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for zu in the symbol table.
+[DEBUG][TYPE_CHECKER]:   Iserted zu in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- integer_node -->
+[DEBUG][TYPE_CHECKER]: <-- print_node -->
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for y in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- id_node -->
+[DEBUG][TYPE_CHECKER]:   Looked for x in the symbol table.
+[DEBUG][TYPE_CHECKER]: <-- gt_node -->
+[DEBUG][TYPE_CHECKER]: <-- gt_node -->
